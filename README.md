@@ -40,7 +40,7 @@ pip install sklearn
 
 - Clone this repository by using this command
 ```
-git clone 
+git clone https://github.com/Sreejith2003/Diabetes_Prediction_Model.git
 ```
 - Install the required deoendencies and run every one by one to get the prediction
 - I used a sample prediction you can change the values to check the prediction
